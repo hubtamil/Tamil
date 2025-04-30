@@ -1,0 +1,4 @@
+some ccontent git status
+              git add "filename"
+              git commit -m "filename"
+              git push origin main filenam
